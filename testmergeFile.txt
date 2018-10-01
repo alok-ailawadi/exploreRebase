@@ -1,6 +1,8 @@
 This is feature2 lin1
 This is line 1
 This is feature2 line2
+this is feature 1 line1
+this is feature 2 line 2
 This is line 2
 This is line 3
 this is feature2 line3
